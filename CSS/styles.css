@@ -1,0 +1,58 @@
+body{ 
+    text-align: center;
+    margin: 0;
+}
+h1{ font-family: 'Sacramento', cursive;
+    width: 10%;
+    margin: 0 auto;}
+    p{font-family: 'Montserrat', sans-serif;}
+.a{  font-family: 'Sacramento', cursive;
+    padding-top: 100px;
+    position: relative;
+    background-color:  #e4f9f5 ;
+}
+.cloud-bottom{ 
+    position: absolute;
+    left: 300px;
+}
+.cloud-top{
+    position: absolute;
+    right: 300px;
+}
+.a2{margin-top: 10px;
+}
+.a3{
+    background-color:#66BFBF ;  
+   padding-bottom: 10px;
+  
+  }
+.me{
+    border-radius: 50%;
+    size-adjust: 100px ;}
+    .skill-row{ line-height: 2; text-align: left; margin: 100px auto 100px auto;
+        width: 50%;}
+.food{ margin-right: 20px;
+    float: left;
+    height: 20%; width: 20%; }
+.gym{ margin-right: 20px; float: left; height: 20%; width: 20%;}
+.pics{ transition: transform 0.2s ; margin-right: 20px; float: left; height: 20%; width: 20%;}
+.pics:hover{ transform: scale(2);}
+.insta{ transition: transform 0.2s ; margin: 9px ;height: 30px;width: 30px;}
+.insta:hover{ transform: scale(2);}
+.X{  transition: transform 0.2s ; margin: 5px ;height: 30px;width: 30px;}
+.X:hover{ transform: scale(2);}
+.mail{  transition: transform 0.2s ; margin: 5px; height: 40px;width: 40px;}
+.mail:hover{ transform: scale(2);}
+hr{
+    transition: transform 0.2s ;
+    border-style: none;
+    border-top: dotted;
+    border-color:#424141 ;
+    width: 5%;
+    border-width: 7px;
+    shape-rendering: crispEdges;
+}
+hr:hover{ transform: scale(2);}
+p{ line-height: 2;}
+.copy{ padding: 20px 0;
+    font-size: .80rem;}
